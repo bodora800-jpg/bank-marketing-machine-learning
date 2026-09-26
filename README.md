@@ -54,7 +54,7 @@ Decision Tree (J48) achieved better performance across most evaluation metrics, 
 
 ## Model Comparison
 
-![Model Comparison](Model_Comparison.jpg)
+![Model Comparison](Model_Comparison.PNG)
 
 
 
