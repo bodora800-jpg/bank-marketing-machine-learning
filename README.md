@@ -46,3 +46,7 @@ Decision Tree (J48) achieved better performance across most evaluation metrics, 
 - Classification
 - Model Evaluation
 - Performance Metrics Analysis
+
+  ## Dataset Distribution
+
+![Term Deposit Subscription Distribution](Term_deposit_subscription_distribution.JPG)
